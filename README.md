@@ -18,5 +18,5 @@ The "Password Generator" is a solo project I completed in the Scrimba Front-End 
 Clone the repository, then open the `index.html` file in a browser to generate a new password.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://comfy-moonbeam-971ac9.netlify.app/)
 
